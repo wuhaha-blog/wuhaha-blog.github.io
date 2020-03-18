@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>1 - home</h1>
+    <h1>wuhaha-blog.github.io - home</h1>
     <hr>Hello
   </div>
 </template>
