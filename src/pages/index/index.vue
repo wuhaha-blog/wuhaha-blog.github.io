@@ -1,0 +1,24 @@
+<template>
+  <div>
+    <h1>1 - home</h1>
+    <hr>Hello
+  </div>
+</template>
+
+<style lang="less" scoped>
+@import url("./index.less");
+</style>
+
+<script>
+export default {
+  data() {
+    return {};
+  },
+  methods: {},
+  created() {
+    Tape.onShow(() => {
+      // page on show
+    });
+  }
+};
+</script>
